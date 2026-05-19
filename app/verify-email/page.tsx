@@ -17,7 +17,7 @@ export default function VerifyEmailPage() {
 
         <p className="text-gray-500 mt-3">
           We have sent a verification link to your email.
-          Please check your inbox and confirm your account.
+          please check your inbox and confirm your account.
         </p>
 
         {/* BUTTON */}
