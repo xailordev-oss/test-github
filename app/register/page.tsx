@@ -9,7 +9,7 @@ export default function RegisterPage() {
 
         {/* TITLE */}
         <h1 className="text-3xl font-bold text-center text-gray-800">
-          Create Account 🚀
+          Create account 🚀
         </h1>
         <p className="text-center text-gray-500 mt-2 mb-6">
           Sign up to start shopping
@@ -40,7 +40,7 @@ export default function RegisterPage() {
 
         {/* BUTTON */}
         <button className="w-full mt-6 bg-green-500 hover:bg-green-600 text-white font-semibold py-3 rounded-xl transition duration-300 shadow-md">
-          Create Account
+          Create account
         </button>
 
         {/* LOGIN LINK */}
